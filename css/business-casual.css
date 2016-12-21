@@ -24,6 +24,31 @@ h6 {
     font-weight: 700;
     letter-spacing: 1px;
 }
+.caption{
+  margin-left: 0;
+  display: inline;
+  float: left;
+  margin-right: 1.5em;
+  width: 205px;
+}
+
+.caption img{
+  margin-left: 0;
+  display: block;
+  margin: 0 auto;
+  vertical-align: middle;
+  float: left;
+  height: auto;
+  max-width: 100%;
+  box-sizing: inherit;
+}
+
+figcaption{
+  text-align: center;
+  font-size: 1.4rem;
+  display: block;
+  box-sizing: inherit;
+}
 
 p {
     font-size: 1.25em;
